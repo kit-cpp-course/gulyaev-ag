@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Block" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAABAAAAABAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Block.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MagmaEngineBase" Collapsed="true">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAYAAAAAAABAAAgAAAAAAAAAAAAAIAAIAAAAAAAA=</HashCode>
+      <FileName>CipherEngine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MagmaEncrypt" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>CipherEngine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MagmaDecrypt" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAIAAAAA=</HashCode>
+      <FileName>CipherEngine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CipherEngineFactory" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQRAAAgAAAAAAAgCAAAAA=</HashCode>
+      <FileName>CipherEngineFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileBlockProvider" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAIIAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>FileBlockProvider.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HalfBlock" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAEAAAAACCAAgAAAAAAA=</HashCode>
+      <FileName>HalfBlock.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IBlockProvider" Collapsed="true">
+    <Position X="1.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>IBlockProvider.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICipherEngine" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ICipherEngine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InMemoryBlockProvider" Collapsed="true">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAABAAAACAAAAQAAAAAAAAAAEAAAAAAAAAAAAQ=</HashCode>
+      <FileName>InMemoryBlockProvider.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KeyProvider" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABABAAAAAAIAAAAAAAAAAAEAAAAAgAAAAAAA=</HashCode>
+      <FileName>KeyProvider.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PermutationEngine" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAACAAAAAAAAAAAAAAAAAEAAAIACAAAAAAAAAAA=</HashCode>
+      <FileName>PermutationEngine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SizeDefinition" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAACAQAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>SizeDefinition.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
